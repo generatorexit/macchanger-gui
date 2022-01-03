@@ -21,5 +21,4 @@ sudo python3 macchanger-gui.py
 
 ```
 bash start-gui.sh
-sudo python3 macchanger-gui.py
 ```
